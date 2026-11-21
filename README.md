@@ -1,14 +1,99 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,33:FF9900,66:99FF00,100:FF0099&height=170&section=header&text=Naufal%20Saputra%27s%20Codebase%20%F0%9F%92%BB&fontSize=42&fontAlignY=48&fontColor=ffffff" width="100%" />
-<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=0099FF&center=true&width=580&lines=Logic.+Design.+Create." /><br/><br/>
-<img src="https://skillicons.dev/icons?i=py,aws,ruby,docker,java,redis,swift&theme=dark" height="52"/><br/><br/>
-<p><i>"Experience is the name everyone gives to their mistakes."</i></p>
-<p>Greetings! I am a privacy-preserving software engineer. I implement advanced encryption, hashing, and anonymization techniques to protect sensitive user data at all costs.</p><br/>
-<p><img src="https://img.shields.io/badge/Game%20Development-0099FF?style=for-the-badge&logo=unity&logoColor=000" /> <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=rabbitmq&logoColor=000" /> <img src="https://img.shields.io/badge/DevOps%20Maestro-99FF00?style=for-the-badge&logo=docker&logoColor=000" /></p><br/>
-<p><img src="https://img.shields.io/badge/GITLAB-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/AZURE-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></p><br/>
+
+# Naufal Saputra
+
+<a href="https://github.com/Ute187">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Security+Researcher+(GHSA+%2F+CVD);AWS+Nitro+Enclaves+%26+Memory+Safety;Cryptographic+Protocol+%26+Binding+Audits;Solana+DLMM+%26+MEV+Arbitrage+Systems" alt="Typing SVG" />
+</a>
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ute187&show_icons=true&theme=dracula&hide_border=true&title_color=0099FF&icon_color=99FF00&text_color=FF9900&cache_seconds=86400" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ute187&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FF9900&icon_color=0099FF&text_color=99FF00&cache_seconds=86400" height="160" />
+  
+  <a href="https://www.flowmusic.app/Naufal Saputra"><img src="https://img.shields.io/badge/Flow%20Music-Naufal Saputra-E62117?style=flat-square&logo=youtubemusic&logoColor=white" alt="Flow Music" /></a>
+  <a href="#-security-research"><img src="https://img.shields.io/badge/Research-GHSA%20Verified-238636?style=flat-square&logo=github&logoColor=white" alt="GHSA" /></a>
+  <a href="#-responsible-disclosure--contact"><img src="https://img.shields.io/badge/Policy-Coordinated%20Disclosure-0969da?style=flat-square&logo=securityscorecard&logoColor=white" alt="CVD Policy" /></a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,33:FF9900,66:99FF00,100:FF0099&height=90&section=footer" width="100%" />
+
+<p align="center">
+  Focusing on <b>vulnerability research</b> (memory safety, confidential enclaves, cryptographic protocol bindings, supply chain parsing), <br/>
+  <b>low-latency systems</b>, and <b>Web3 algorithmic infrastructure</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/AWS%20Nitro%20Enclaves-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
 </div>
+
+## 🛡️ Security Research
+
+Verified disclosures with official vendor credit and GitHub Security Advisories (GHSA):
+
+| Target | Advisory / Evidence | Finding Summary | Impact & Status |
+|:---|:---|:---|:---|
+| **[`xevrion/hatchzip`](https://github.com/xevrion/hatchzip)** | [`GHSA-cq63-4gv9-w2gc`](https://github.com/xevrion/hatchzip/security/advisories/GHSA-cq63-4gv9-w2gc) | Symlinked `.hatchzip-part` name redirects extraction to write outside output directory | `Fixed 0.1.6` · `CWE-59` · Shared credit |
+| **[`xevrion/hatchzip`](https://github.com/xevrion/hatchzip)** | [`GHSA-m6m5-qcjx-55gv`](https://github.com/xevrion/hatchzip/security/advisories/GHSA-m6m5-qcjx-55gv) | Progress files shipped with archive let resume/restore replace arbitrary files | `Fixed 0.1.6` · `CWE-345` · Sole reporter |
+| **[`shieldfive/crypto`](https://github.com/shieldfive/crypto)** | [`CHANGELOG`](https://github.com/shieldfive/crypto/blob/main/CHANGELOG.md) · [`PR #55`](https://github.com/shieldfive/crypto/pull/55) | Upload-proof scope: proof-binding claim exceeded MAC's actual coverage | `Credited` (2026-09-23) · Protocol audit |
+| **[`PayPerQ/ppq-enclave-proxy`](https://github.com/PayPerQ/ppq-enclave-proxy)** | [`GHSA-33j5-hgc8-9mgg`](https://github.com/PayPerQ/ppq-enclave-proxy/pull/360) · [`PR #360`](https://github.com/PayPerQ/ppq-enclave-proxy/pull/360) | Body-parse error echoed unsealed EHBP plaintext + unbounded line pump worker OOM DoS | `Fixed` · Nitro Enclave · Credited reporter |
+
+---
+
+## 🔬 Core Focus & Research Domains
+
+```
+[ Vulnerability Research ] ──> Memory & State Safety ──> Cryptographic Bindings ──> Confidential Enclaves
+[ Systems & Web3 Infra  ] ──> Low-Latency Engines   ──> MEV Arbitrage          ──> Asynchronous TUI Wallets
+```
+
+- **Vulnerability Research**: Coordinated Vulnerability Disclosure (CVD), path traversal & archive sanitization, enclave proxy boundaries, cryptographic proof-binding validation.
+- **Low-Latency & Web3 Systems**: Dynamic bin liquidity management (Solana Meteora DLMM), cross-pool MEV arbitrage discovery, asynchronous TUI architectures.
+- **Autonomous Agents**: Quantitative AI agents for market microstructure and order flow analysis.
+
+---
+
+## 🚀 Featured Engineering & Tooling
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Ute187/MeteoraDLLM">MeteoraDLLM</a></h3>
+      <p>Automated liquidity management & active dynamic bin rebalancing architecture tailored for <b>Solana Meteora DLMM</b> liquidity pools.</p>
+      <code>Python</code> <code>Solana</code> <code>DeFi</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Ute187/andzis-arbitrage-mode">andzis-arbitrage-mode</a></h3>
+      <p>High-efficiency <b>MEV cross-pool arbitrage engine</b> designed for rapid cycle discovery and execution across on-chain liquidity routes.</p>
+      <code>TypeScript</code> <code>MEV</code> <code>Web3</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 <a href="https://github.com/Ute187/octra_pre_client">octra_pre_client</a></h3>
+      <p>Retro DOS-era TUI client for <b>Octra Network</b> powered by a modern non-blocking asynchronous architecture and terminal UX.</p>
+      <code>Python</code> <code>AsyncIO</code> <code>TUI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Ute187/Ex-XAU">Ex-XAU</a></h3>
+      <p>Autonomous AI market agent analyzing macroeconomic trends, multi-timeframe price action, and order flow metrics for gold (XAU).</p>
+      <code>Python</code> <code>AI-Agent</code> <code>Finance</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Responsible Disclosure & Contact
+- **Ethics**: All vulnerability research is conducted strictly under **Coordinated Vulnerability Disclosure (CVD)** guidelines.
+- **Direct Message**: 
+- **Music & Playlists**: [Flow Music / Naufal Saputra](https://www.flowmusic.app/Naufal Saputra)
+- **Security Inquiries**: Available for coordinated vulnerability disclosure and technical verification via repository security advisories.
+<!---
+Ute187/Ute187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
